@@ -14,7 +14,7 @@ global.deku = new Object({
   PREFIX,
   BOTNAME,
   ADMINBOT,
-  ENDPOINT: "https://deku-rest-api-3jvu.onrender.com", // join our group to be updated if this API is suspended
+  ENDPOINT: "https://deku-rest-api.gleeze.com", // join our group to be updated if this API is suspended
   AUTOPOST: config["SETTING"]["AUTOPOST"],
   //  ADMINONLY: config["SETTING"]["ADMINONLY"], // on next update lol
   DETECTTYPING: config["SETTING"]["DETECTTYPING"],
